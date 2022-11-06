@@ -1,0 +1,4 @@
+Створив пакет Airport, абстрактний клас Person;
+Від Airport наслідують класи:
+Airplane, Person, Pilot, Commandpost
+Клас Airplane імплементує інтерфейс Nameable
